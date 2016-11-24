@@ -14,7 +14,7 @@ The required libraries are already included, although they must be updated to th
 	- UnderscoreJS : 1.8.3
 	- requireJS : 2.3.2
 	- text : 2.0.15
-________________________
+
 ## Useful cordova commands (using `--save`)
 
 * **Managing platforms**:
