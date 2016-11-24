@@ -1,6 +1,7 @@
 # generated files
 /platforms
 /plugins
+jsconfig.json
 
 # IDEs and editors
 /.vscode
