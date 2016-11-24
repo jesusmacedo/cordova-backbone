@@ -1,0 +1,14 @@
+# generated files
+/platforms
+/plugins
+jsconfig.json
+
+# IDEs and editors
+/.vscode
+
+# misc
+npm-debug.log
+
+#System Files
+.DS_Store
+Thumbs.db
